@@ -1,0 +1,1 @@
+enum seasons {winter = 1, spring, summer, fall};
